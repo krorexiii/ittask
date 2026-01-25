@@ -95314,7 +95314,7 @@ var $async$pU=A.I(function(c,d){if(c===1){o.push(d)
 s=p}while(true)switch(s){case 0:p=4
 g=t.N
 n=A.an(["Accept","*/*","User-Agent","Flutter App","Content-Type","application/json"],g,g)
-m=A.e2("http://192.168.0.205:3000/send-message",0,null)
+m=A.e2("http://192.168.1.234:3000/send-message",0,null)
 l=A.an(["number",B.e.k(b),"message",a],g,g)
 k=A.aJx("POST",m)
 k.r.P(0,n)
